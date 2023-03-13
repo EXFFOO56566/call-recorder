@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943181030599",
+    "project_id": "tochy-call-recorder",
+    "storage_bucket": "tochy-call-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943181030599:android:219f3763abd6e57297cae2",
+        "android_client_info": {
+          "package_name": "com.tochy.callrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943181030599-hd0h6jsiit39u504nnm6a983d3o6bvtf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tochy.callrecorder",
+            "certificate_hash": "3c29d14240958c4f80fb79a7ded81547fb744100"
+          }
+        },
+        {
+          "client_id": "943181030599-ghmba3f54pqb5n145uaudgddgc2o2i9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKOee0rpHii54DNza9NwrEDroEO5wkk1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943181030599-ghmba3f54pqb5n145uaudgddgc2o2i9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
